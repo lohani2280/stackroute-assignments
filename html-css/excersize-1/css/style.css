@@ -1,0 +1,14 @@
+body {
+	background-color: #e3e3e3;
+}
+
+.mydivclass {
+	margin: auto;
+	width: 50%;
+}
+
+blockquote {
+	border: 2px solid white;
+	text-align: center;
+	margin-left: 0px;
+}
