@@ -1,0 +1,12 @@
+/*body {
+   Margin bottom by footer height 
+  margin-bottom: 60px;
+}
+*/
+
+footer {
+  background: #333;
+  color: #eee;
+  font-size: 11px;
+  padding: 20px;
+}
