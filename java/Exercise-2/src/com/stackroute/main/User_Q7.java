@@ -72,6 +72,4 @@ public class User_Q7
 		return (fullNmae);
 		
 	}
-		
-
 }

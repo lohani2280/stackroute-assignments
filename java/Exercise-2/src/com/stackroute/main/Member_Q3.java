@@ -11,7 +11,4 @@ public class Member_Q3 {
 		this.age = age;
 		this.salary = salary;
 	}
-	
-	
-
 }

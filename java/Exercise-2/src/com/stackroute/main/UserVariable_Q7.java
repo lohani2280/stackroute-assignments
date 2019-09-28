@@ -13,11 +13,8 @@ public class UserVariable_Q7 {
 		obj1.setAge(17);
 		System.out.println(obj1.isValidAge());
 		
-		obj1.setFirstName("Praveen");
-		obj1.setLastName("Awasthi");
+		obj1.setFirstName("Ayush");
+		obj1.setLastName("Lohani");
 		System.out.println(obj1.getFullName());
-		
-		
 	}
-
 }

@@ -49,5 +49,4 @@ public class Q6 {
 			a++;
 		}
 	}
-
 }
